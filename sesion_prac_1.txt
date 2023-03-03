@@ -1,0 +1,93 @@
+Script started on 2023-03-03 13:07:10+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@pclab053: ~[01;32malumno@pclab053[00m:[01;34m~[00m$ git clone [7mgit@github.com:AragronII/practica_1.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:AragronII/practica_1.git
+[?2004lClonando en 'practica_1'...
+remote: Enumerating objects: 4, done.[K
+remote: Counting objects:  25% (1/4)[Kremote: Counting objects:  50% (2/4)[Kremote: Counting objects:  75% (3/4)[Kremote: Counting objects: 100% (4/4)[Kremote: Counting objects: 100% (4/4), done.[K
+remote: Compressing objects:  33% (1/3)[Kremote: Compressing objects:  66% (2/3)[Kremote: Compressing objects: 100% (3/3)[Kremote: Compressing objects: 100% (3/3), done.[K
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Recibiendo objetos:  25% (1/4)Recibiendo objetos:  50% (2/4)Recibiendo objetos:  75% (3/4)Recibiendo objetos: 100% (4/4)Recibiendo objetos: 100% (4/4), 12.47 KiB | 6.23 MiB/s, listo.
+[?2004h]0;alumno@pclab053: ~[01;32malumno@pclab053[00m:[01;34m~[00m$ cp /home/alumno/Documentos/temp.py 
+[?2004lcp: falta el operando archivo de destino después de '/home/alumno/Documentos/temp.py'
+Pruebe 'cp --help' para más información.
+[?2004h]0;alumno@pclab053: ~[01;32malumno@pclab053[00m:[01;34m~[00m$ cp /home/alumno/Documentos/temp.py prac_1.py
+[?2004l[?2004h]0;alumno@pclab053: ~[01;32malumno@pclab053[00m:[01;34m~[00m$ python3 prac_1.po[Ky
+[?2004l[?2004h]0;alumno@pclab053: ~[01;32malumno@pclab053[00m:[01;34m~[00m$ ls -al
+[?2004ltotal 294132
+drwxr-x--- 34 alumno alumno      4096 mar  3 13:09  [0m[01;34m.[0m
+drwxr-xr-x  5 root   root        4096 may  4  2022  [01;34m..[0m
+drwxrwxr-x  2 alumno alumno      4096 may  4  2022  [01;34m.android[0m
+-rw-------  1 alumno alumno      3236 mar  3 13:04  .bash_history
+-rw-r--r--  1 alumno alumno       220 may  4  2022  .bash_logout
+-rw-r--r--  1 alumno alumno      3771 may  4  2022  .bashrc
+drwx------ 19 alumno alumno      4096 mar  3 09:59  [01;34m.cache[0m
+drwx------ 20 alumno alumno      4096 mar  3 11:40  [01;34m.config[0m
+drwxr-xr-x  5 alumno alumno      4096 mar  3 13:01  [01;34mDescargas[0m
+-rw-r--r--  1 alumno alumno        25 may 10  2022  .dmrc
+drwxr-xr-x  2 alumno alumno      4096 mar  3 12:54  [01;34mDocumentos[0m
+drwxrwxr-x  5 alumno alumno      4096 may  4  2022  [01;34m.eclipse[0m
+drwxrwxr-x  3 alumno alumno      4096 may  4  2022  [01;34meclipse-workspace[0m
+drwx------  3 alumno alumno      4096 feb  2 19:40  [01;34m.emacs.d[0m
+drwxr-xr-x  2 alumno alumno      4096 may  4  2022  [01;34mEscritorio[0m
+drwxrwxr-x  2 alumno alumno      4096 may  4  2022  [01;34m.ghc[0m
+drwxrwxr-x  7 alumno alumno      4096 mar  3 12:10  [01;34m.git[0m
+-rw-rw-r--  1 alumno alumno        49 feb  2 19:42  .gitconfig
+drwx------  2 alumno alumno      4096 mar  3 09:16  [01;34m.gnupg[0m
+drwxr-xr-x  2 alumno alumno      4096 may  4  2022  [01;34mImágenes[0m
+drwxrwxr-x  2 alumno alumno      4096 may 24  2022  [01;34m.ipynb_checkpoints[0m
+drwxrwxr-x  5 alumno alumno      4096 may 24  2022  [01;34m.ipython[0m
+drwxrwxr-x  4 alumno alumno      4096 may  4  2022  [01;34m.java[0m
+drwxrwxr-x  2 alumno alumno      4096 may  4  2022  [01;34m.jupyter[0m
+drwxrwxr-x  2 alumno alumno      4096 may  4  2022  [01;34m.keras[0m
+drwx------  3 alumno alumno      4096 may  4  2022  [01;34m.local[0m
+drwx------  3 alumno alumno      4096 mar  3 09:59  [01;34m.mozilla[0m
+drwxr-xr-x  2 alumno alumno      4096 may  4  2022  [01;34mMúsica[0m
+drwxr-xr-x  2 alumno alumno      4096 may  4  2022  [01;34mPlantillas[0m
+-rw-rw-r--  1 alumno alumno      3533 mar  3 13:09  prac_1.py
+drwxrwxr-x  3 alumno alumno      4096 mar  3 13:07  [01;34mpractica_1[0m
+-rw-r--r--  1 alumno alumno       807 may  4  2022  .profile
+drwxrwxr-x 12 alumno alumno      4096 ene 26 16:48 [01;34m'prpa alguien'[0m
+drwxr-xr-x  2 alumno alumno      4096 may  4  2022  [01;34mPúblico[0m
+-rw-------  1 alumno alumno       109 may 23  2022  .python_history
+drwxrwxr-x  7 alumno alumno      4096 may  4  2022  [01;34m.sage[0m
+-rw-rw-r--  1 alumno alumno         0 mar  3 13:07  sesion_prac_1.txt
+-rw-rw-r--  1 alumno alumno     20480 ene 26 16:41  sesion.txt
+drwx------  9 alumno alumno      4096 may  4  2022  [01;34msnap[0m
+-rw-r--r--  1 root   root   300971569 ene 20  2022  [01;31mspark-3.2.1-bin-hadoop3.2.tgz[0m
+drwx------  2 alumno alumno      4096 mar  3 13:04  [01;34m.ssh[0m
+drwxrwxr-x  2 alumno alumno      4096 may  4  2022  [01;34m.swt[0m
+drwx------  6 alumno alumno      4096 mar  3 09:59  [01;34m.thunderbird[0m
+drwxrwxr-x  3 alumno alumno      4096 may  4  2022  [01;34m.tooling[0m
+-rw-rw-r--  1 alumno alumno        72 may 24  2022  Untitled1.ipynb
+-rw-rw-r--  1 alumno alumno        72 may  4  2022  Untitled.ipynb
+drwxr-xr-x  2 alumno alumno      4096 may  4  2022  [01;34mVídeos[0m
+-rw-------  1 alumno alumno       105 mar  3 09:13  .Xauthority
+-rw-------  1 alumno alumno       542 mar  3 09:13  .xsession-errors
+-rw-------  1 alumno alumno       542 feb 28 11:59  .xsession-errors.old
+[?2004h]0;alumno@pclab053: ~[01;32malumno@pclab053[00m:[01;34m~[00m$ cd practica_1/
+[?2004l[?2004h]0;alumno@pclab053: ~/practica_1[01;32malumno@pclab053[00m:[01;34m~/practica_1[00m$ cp /[K../prac_1,py prac_1.py
+[?2004lcp: no se puede efectuar `stat' sobre '../prac_1,py': No existe el archivo o el directorio
+[?2004h]0;alumno@pclab053: ~/practica_1[01;32malumno@pclab053[00m:[01;34m~/practica_1[00m$ cp ../prac_1,py prac_1.py[C[1P[1@.
+[?2004l[?2004h]0;alumno@pclab053: ~/practica_1[01;32malumno@pclab053[00m:[01;34m~/practica_1[00m$ add prac_1.py[1@g[1@i[1@t[1@ 
+[?2004l[?2004h]0;alumno@pclab053: ~/practica_1[01;32malumno@pclab053[00m:[01;34m~/practica_1[00m$ git commit prac_1.py
+[?2004layuda: Esperando que tu editor cierre el archivo ... [?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Leyendo... ](B[m[22;31H(B[0;7m[ 11 líneas leídas ](B[m[H(B[0;7m  GNU nano 6.2       /home/alumno/practica_1/.git/COMMIT_EDITMSG                [1;79H(B[m[23d(B[0;7m^G(B[m Ayuda     (B[0;7m^O(B[m Guardar   (B[0;7m^W(B[m Buscar    (B[0;7m^K(B[m Cortar    (B[0;7m^T(B[m Ejecutar  (B[0;7m^C(B[m Ubicación[24d(B[0;7m^X(B[m Salir     (B[0;7m^R(B[m Leer fich.(B[0;7m^\(B[m Reemplazar(B[0;7m^U(B[m Pegar     (B[0;7m^J(B[m Justificar(B[0;7m^/(B[m Ir a línea[3d[36m# Por favor ingresa el mensaje del commit para tus cambios. Las[4d#  líneas que comiencen con '#' serán ignoradas, y un mensaje[5d#  vacío aborta el commit.[6d#[7d# En la rama main[8d# Tu rama está actualizada con 'origin/main'.[9d#[10d# Cambios a ser confirmados:[11d#[38;5;208m       [36mnuevos archivos: prac_1.py[12d#[2d[39m(B[m[?12l[?25h[?25l[1;66H(B[0;7m*[79G(B[m[?12l[?25h[2dd[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25hp[?25l[?12l[?25hr[?25l[?12l[?25ha[?25l[?12l[?25hc[?25l[?12l[?25hy[?25l[?12l[?25hi[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25hi[?25l[?12l[?25hc[?25l[?12l[?25ha[?25l[?12l[?25h1[?25l[23;14H       (B[0;7mM-D(B[m Formato DOS     (B[0;7mM-A(B[m Añadir          (B[0;7mM-B(B[m Respaldar ficher[24;2H(B[0;7mC(B[m Cancelar         (B[0;7mM-M(B[m Formato Mac     (B[0;7mM-P(B[m Anteponer       (B[0;7m^T(B[m Navegar[K[22d(B[0;7mNombre del archivo a escribir: /home/alumno/practica_1/.git/COMMIT_EDITMSG      [22;75H(B[m[?12l[?25h[?25l[22;31H[1K (B[0;7m[ Escribiendo... ](B[m[K[1;66H(B[0;7m [79G(B[m[22;30H(B[0;7m[ 11 líneas escritas ](B[m[23;14H(B[0;7m^O(B[m Guardar   (B[0;7m^W(B[m Buscar    (B[0;7m^K(B[m Cortar    (B[0;7m^T(B[m Ejecutar  (B[0;7m^C(B[m Ubicación[K[24;2H(B[0;7mX(B[m Salir     (B[0;7m^R(B[m Leer fich.(B[0;7m^\(B[m Reemplazar(B[0;7m^U(B[m Pegar     (B[0;7m^J(B[m Justificar(B[0;7m^/(B[m Ir a línea[?12l[?25h[2;13H[?25l[23;14H       (B[0;7mM-D(B[m Formato DOS     (B[0;7mM-A(B[m Añadir          (B[0;7mM-B(B[m Respaldar ficher[24;2H(B[0;7mC(B[m Cancelar         (B[0;7mM-M(B[m Formato Mac     (B[0;7mM-P(B[m Anteponer       (B[0;7m^T(B[m Navegar[K[22d(B[0;7mNombre del archivo a escribir: /home/alumno/practica_1/.git/COMMIT_EDITMSG      [22;75H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[22;31H[1K (B[0;7m[ Escribiendo... ](B[m[K[1;79H[22;30H(B[0;7m[ 11 líneas escritas ](B[m[23;14H(B[0;7m^O(B[m Guardar   (B[0;7m^W(B[m Buscar    (B[0;7m^K(B[m Cortar    (B[0;7m^T(B[m Ejecutar  (B[0;7m^C(B[m Ubicación[K[24;2H(B[0;7mX(B[m Salir     (B[0;7m^R(B[m Leer fich.(B[0;7m^\(B[m Reemplazar(B[0;7m^U(B[m Pegar     (B[0;7m^J(B[m Justificar(B[0;7m^/(B[m Ir a línea[?12l[?25h[2;13H[?25l[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[K[main 93b42df] de practica1
+ 1 file changed, 139 insertions(+)
+ create mode 100644 prac_1.py
+[?2004h]0;alumno@pclab053: ~/practica_1[01;32malumno@pclab053[00m:[01;34m~/practica_1[00m$ git status
+[?2004lEn la rama main
+Tu rama está adelantada a 'origin/main' por 1 commit.
+  (usa "git push" para publicar tus commits locales)
+
+nada para hacer commit, el árbol de trabajo está limpio
+[?2004h]0;alumno@pclab053: ~/practica_1[01;32malumno@pclab053[00m:[01;34m~/practica_1[00m$ git push
+[?2004lEnumerando objetos: 4, listo.
+Contando objetos:  25% (1/4)Contando objetos:  50% (2/4)Contando objetos:  75% (3/4)Contando objetos: 100% (4/4)Contando objetos: 100% (4/4), listo.
+Compresión delta usando hasta 4 hilos
+Comprimiendo objetos:  33% (1/3)Comprimiendo objetos:  66% (2/3)Comprimiendo objetos: 100% (3/3)Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos:  33% (1/3)Escribiendo objetos:  66% (2/3)Escribiendo objetos: 100% (3/3)Escribiendo objetos: 100% (3/3), 1.30 KiB | 668.00 KiB/s, listo.
+Total 3 (delta 0), reusados 0 (delta 0), pack-reusados 0
+To github.com:AragronII/practica_1.git
+   49d4b27..93b42df  main -> main
+[?2004h]0;alumno@pclab053: ~/practica_1[01;32malumno@pclab053[00m:[01;34m~/practica_1[00m$ [?2004l
+exit
+
+Script done on 2023-03-03 13:15:09+01:00 [COMMAND_EXIT_CODE="0"]
